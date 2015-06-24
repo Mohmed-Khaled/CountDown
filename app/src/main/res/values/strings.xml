@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CountDown</string>
+
+    <string name="enter_date">Please Enter a Date and Time: </string>
+    <string name="start">Start</string>
+    <string name="vacation">VACATION</string>
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="Minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="title_activity_count_down">CountDown</string>
+
+</resources>
